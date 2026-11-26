@@ -27,21 +27,29 @@ Project tugas individu mata kuliah Pemrograman Perangkat Mobile Sesi 2 mengenai 
 
 ## Screenshot hasil aplikasi
 
-### Tampilan awal
+### 1. Tampilan profil dan banner promo
 
-![Tampilan awal](screenshots/tampilan_awal.png)
+![Tampilan profil dan banner promo](screenshots/01_tampilan_awal.png)
 
-### Favorite aktif
+### 2. Informasi produk dan kontrol jumlah
 
-![Favorite aktif](screenshots/favorit_aktif.png)
+![Tampilan produk](screenshots/02_produk_default.png)
 
-### Perubahan jumlah dan total harga
+### 3. Favorite aktif dan notifikasi keranjang
 
-![Perubahan jumlah produk](screenshots/jumlah_produk.png)
+![Favorite dan SnackBar keranjang](screenshots/03_favorit_dan_keranjang.png)
 
-### Notifikasi keranjang
+### 4. Perubahan jumlah dan total harga
 
-![SnackBar keranjang](screenshots/snackbar_keranjang.png)
+Jumlah produk berubah menjadi 5 dan total harga otomatis menjadi Rp1.245.000.
+
+![Perubahan jumlah produk](screenshots/04_jumlah_produk.png)
+
+### 5. Batas minimum jumlah produk
+
+Saat tombol kurang ditekan pada jumlah 1, aplikasi mempertahankan nilai minimum dan menampilkan peringatan.
+
+![Batas minimum produk](screenshots/05_batas_minimum.png)
 
 ## Menjalankan project
 
